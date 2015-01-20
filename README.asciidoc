@@ -50,7 +50,7 @@ Coursework
 
 === Homework
 
-I will assign homework on a roughly weekly basis.  Each homework assignment will be available under the class's GitHub account at https://github.com/nau-cs3320[].  To work on the assignment, you will need to:
+I will assign homework on a roughly weekly basis.  Each homework assignment will be available under the class's GitHub account at https://github.com/nau-comp3320[].  To work on the assignment, you will need to:
 
 1. Fork the repository, making a copy under your own user.
 2. Clone the repository to your computer, where you can then work on it.
@@ -217,7 +217,7 @@ Students that require any accommodation (such as students with disabilities, con
 
 === Changes to syllabus
 
-This syllabus is subject to adjustment as the semester progresses.  You are encouraged to watch the syllabus repository at https://github.com/nau-cs3320/syllabus[] to be notified of updates.
+This syllabus is subject to adjustment as the semester progresses.  You are encouraged to watch the syllabus repository at https://github.com/nau-comp3320/syllabus[] to be notified of updates.
 
 === Instructor feedback
 
