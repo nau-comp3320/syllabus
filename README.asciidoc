@@ -12,7 +12,7 @@ Number::       COMP 3320
 Title::        Programming languages
 Credit::       45 clock hours/3 semester credits
 Instructor::   Daniel Solano Gómez <dsolano@na.edu>
-Office hours:: Tuesdays, Thursdays; 14:30–15:30; 220A
+Office hours:: Tuesdays, Thursdays; 14:30–15:30; Room 220A.  Additional times by appointment.
 Prerequisite:: COMP 2313: Data structures
 
 === Description
@@ -21,7 +21,7 @@ This course covers the principles of programming language design; specification 
 
 === Objectives
 
-By the end of this course, students should be able to:
+By the end of this course, you should be able to:
 
 * Identify and describe the features of a programming language, such as its paradigm, type system, scoping rules, data abstraction support, concurrency support, etc.
 * Evaluate the suitability of a given language for a particular purpose
@@ -32,17 +32,87 @@ By the end of this course, students should be able to:
 
 * _Concepts of Programming Languages_ (10th edition), Robert W. Sebesta, Pearson, ISBN 0-13-139531-9.
 
-Additional reading material will be provided in class or on-line.
+I may provide additional reading material in class or on-line.
 
 === Software and online resources
 
-In order to complete homework assignments, students will need access to a computer with:
+In order to complete homework assignments, you will need access to a computer with:
 
 * A text editor of their choice
 * Compilers for languages used in class (to be determined)
 * http://git-scm.com[Git], a revision control system
 
-Additionally, students will need an account on https://github.com[GitHub].  A basic free account is all that is required for this course.  You can find good resources for learning how to use Git and GitHub at https://help.github.com/articles/good-resources-for-learning-git-and-github/[].
+Additionally, you will need a basic, free account on https://github.com[GitHub].  You can find good resources for learning how to use Git and GitHub at https://help.github.com/articles/good-resources-for-learning-git-and-github/[].
+
+
+Coursework
+----------
+
+=== Homework
+
+I will assign homework on a roughly weekly basis.  Each homework assignment will be available under the class's GitHub account at https://github.com/nau-cs3320[].  To work on the assignment, you will need to:
+
+1. Fork the repository, making a copy under your own user.
+2. Clone the repository to your computer, where you can then work on it.
+3. Push your solution to GitHub.
+4. Create a pull request with the class repository with your solution.
+
+I will provide feedback to you as a comment in the pull request.
+
+[TIP]
+It is a good practice to break your work down into small steps and commit each step as you finish.  When you commit, you should provide a good description of the change you made.  Doing both of these things will make it easier for you to review your work later and identify where you may have introduced a bug.
+
+=== Quizzes
+
+I may give short quizzes at the beginning of class.  The main purpose of these quizzes is to give me a better idea of how well the class is progressing.
+
+=== Exams
+
+There will be one midterm and a final, which will be comprehensive.  If you must miss an exam, let me know as soon as possible.  If you do not let me know, this will result in you getting a zero for the exam.
+
+Grading
+-------
+
+=== Late homework
+
+I will give you the due date for each assignment when I assign it.  If you are having trouble with the assignment, let me know as soon as possible.  I do not guarantee that I will accept any late work, and if I do so, I will deduct 20% for each day it is late.
+
+=== Composition of final grade
+
+Your final grade will be composed as follows:
+
+[cols="<,>",width=25%]
+|===================
+|Homework   |   45%
+|Quizzes    |    5%
+|Midterm    |   25%
+|Final      |   25%
+|===================
+
+Each homework assignment and quiz will have equal weight.
+
+At my sole discretion, I may use your history of class participation to bump up your final grade by more than 2%.
+
+
+=== Letter grade assignments
+
+I will determine final letter grades using the table below.  I may adjust letter grade assignments downwards, but never upwards, i.e. an 87 will guarantee a B+ or better.
+
+[width=25%]
+|=======================================================================
+| 95–100        | A
+| 90–95         | A-
+| 87–90         | B+
+| 83–87         | B
+| 80–83         | B-
+| 77–80         | C+
+| 73–77         | C
+| 70–73         | C-
+| 67–70         | D+
+| 63–67         | D
+| 60–63         | D-
+| Below 60      | F
+|=======================================================================
 
 
 Tentative schedule
@@ -68,19 +138,55 @@ Readings in _italics_ are optional, but highly recommended.
 |Chapter 3, _Chapter 4_
 
 | 3 Feb–5 Feb
-|
+|Ruby, week 1
 |
 
 |10 Feb–12 Feb
-|
+|Ruby, week 2
 |
 
 |17 Feb–19 Feb
+|Ruby, week 3
 |
+
+|24 Feb–26 Feb
+|Propositional logic, Prolog
+|Chapter 16
+
+| 3 Mar–5 Mar
+|Prolog, week 2
+|
+
+|10 Mar–12 Mar
+|Midterm
 |
 
 |16 Mar–20 Mar
 | Spring break
+|
+
+|24 Mar–16 Mar
+|ML, week 1
+|
+
+|31 Mar–2 Apr
+|ML, week 2
+|
+
+| 7 Apr–9 Apr
+|ML, week 3
+|
+
+|14 Apr–16 Apr
+|Lisp, week 1
+|
+
+|21 Apr–23 Apr
+|Lisp, week 2
+|
+
+|28 Apr–30 Apr
+|Lisp, week 3
 |
 
 | 5 May–13 May
@@ -88,36 +194,6 @@ Readings in _italics_ are optional, but highly recommended.
 |
 
 |=======================================================================
-//////
-
-
-
-|24 Feb–26 Feb |
-
-| 3 Mar–5 Mar  |
-
-|10 Mar–12 Mar |
-
-
-|24 Mar–16 Mar |
-
-|31 Mar–2 Apr  |
-
-| 7 Apr–9 Apr  |
-
-|14 Apr–16 Apr |
-
-|21 Apr–23 Apr |
-
-|28 Apr–30 Apr |
-
-/////
-
-
-Grading
--------
-
-todO
 
 
 Policies
@@ -125,7 +201,7 @@ Policies
 
 === Classroom attendance and participation
 
-Students should attend class and participate in classroom discussions. Students who miss class risk missing assignments, schedule updates, and material not covered in the textbook.
+You should attend class and participate in classroom discussions.  If you miss class, you risk missing quizes, assignment details, schedule updates, and material not covered in the textbook.
 
 
 === Academic honesty
@@ -141,4 +217,8 @@ Students that require any accommodation (such as students with disabilities, con
 
 === Changes to syllabus
 
-This syllabus is subject to adjustment as the semester progresses.
+This syllabus is subject to adjustment as the semester progresses.  You are encouraged to watch the syllabus repository at https://github.com/nau-cs3320/syllabus[] to be notified of updates.
+
+=== Instructor feedback
+
+If you have any concerns, questions, or comments, please let me konw.  I am here to help you succeed, but I can not help you if I do not know you need help.
