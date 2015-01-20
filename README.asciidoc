@@ -1,0 +1,144 @@
+COMP 3320: Programming languages: Course syllabus, Spring 2015
+==============================================================
+Daniel Solano_Gómez <dsolano@na.edu>
+
+[NOTE]
+This syllabus is still under development and will be changed.
+
+Course information
+------------------
+
+Number::       COMP 3320
+Title::        Programming languages
+Credit::       45 clock hours/3 semester credits
+Instructor::   Daniel Solano Gómez <dsolano@na.edu>
+Office hours:: Tuesdays, Thursdays; 14:30–15:30; 220A
+Prerequisite:: COMP 2313: Data structures
+
+=== Description
+
+This course covers the principles of programming language design; specification of syntax and semantics; and programming styles and their underlying paradigms, including imperative, functional, logic and object-oriented programming styles.
+
+=== Objectives
+
+By the end of this course, students should be able to:
+
+* Identify and describe the features of a programming language, such as its paradigm, type system, scoping rules, data abstraction support, concurrency support, etc.
+* Evaluate the suitability of a given language for a particular purpose
+* Describe the syntax of a language using BNF notation and understand various methods of specifying the semantics of a language
+* Develop software using a variety of programming paradigms, including imperative, functional, logic, and object-oriented
+
+=== Textbook and reading materials
+
+* _Concepts of Programming Languages_ (10th edition), Robert W. Sebesta, Pearson, ISBN 0-13-139531-9.
+
+Additional reading material will be provided in class or on-line.
+
+=== Software and online resources
+
+In order to complete homework assignments, students will need access to a computer with:
+
+* A text editor of their choice
+* Compilers for languages used in class (to be determined)
+* http://git-scm.com[Git], a revision control system
+
+Additionally, students will need an account on https://github.com[GitHub].  A basic free account is all that is required for this course.  You can find good resources for learning how to use Git and GitHub at https://help.github.com/articles/good-resources-for-learning-git-and-github/[].
+
+
+Tentative schedule
+------------------
+
+Note that the following schedule is subject to change.
+
+Readings in _italics_ are optional, but highly recommended.
+
+
+[options="header,unbreakable",cols="2,6,3"]
+|=======================================================================
+|Week
+|Topic 
+|Textbook reading
+
+|20 Jan–22 Jan
+|Introduction, factors in creating/choosing a programming language, history of the development of high-level languages
+|Chapter 1, _Chapter 2_
+
+|27 Jan–29 Jan
+|Syntax and semantics, BNF grammars, attribute grammars, types of dynamic semantics
+|Chapter 3, _Chapter 4_
+
+| 3 Feb–5 Feb
+|
+|
+
+|10 Feb–12 Feb
+|
+|
+
+|17 Feb–19 Feb
+|
+|
+
+|16 Mar–20 Mar
+| Spring break
+|
+
+| 5 May–13 May
+| Final examination
+|
+
+|=======================================================================
+//////
+
+
+
+|24 Feb–26 Feb |
+
+| 3 Mar–5 Mar  |
+
+|10 Mar–12 Mar |
+
+
+|24 Mar–16 Mar |
+
+|31 Mar–2 Apr  |
+
+| 7 Apr–9 Apr  |
+
+|14 Apr–16 Apr |
+
+|21 Apr–23 Apr |
+
+|28 Apr–30 Apr |
+
+/////
+
+
+Grading
+-------
+
+todO
+
+
+Policies
+--------
+
+=== Classroom attendance and participation
+
+Students should attend class and participate in classroom discussions. Students who miss class risk missing assignments, schedule updates, and material not covered in the textbook.
+
+
+=== Academic honesty
+
+Each student assumes the responsibilities of being a member of the NAU academic community.  All acts of plagiarism are not tolerated including: cheating, claiming other’s work as their own, fabrication, and helping one to commit any of these acts.  Any violations of academic honesty will receive strict disciplinary action, which can include suspension and even expulsion from NAU.
+
+In this class, it is permissible and encouraged to assist classmates in general discussion on how to solve the homework problems.  It is not permissible to copy another's work (or portions thereof) and represent it as your own.
+
+
+=== Accommodations
+
+Students that require any accommodation (such as students with disabilities, conflicts with religious practices or observances, etc.) should notify the instructor as early as possible and accommodations will be made on an individual basis in adherence with the regulations outlined in the _Student Handbook_.
+
+=== Changes to syllabus
+
+This syllabus is subject to adjustment as the semester progresses.

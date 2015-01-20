@@ -1,0 +1,9 @@
+\usepackage{titling}
+\newif\ifauthor
+\pretitle{\begin{center}\LARGE}
+\posttitle{\end{center}}
+\preauthor{}
+\postauthor{}
+\predate{\hfill Last updated: }
+\postdate{}
+\author{}
