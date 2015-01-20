@@ -11,7 +11,7 @@ Course information
 Number::       COMP 3320
 Title::        Programming languages
 Credit::       45 clock hours/3 semester credits
-Instructor::   Daniel Solano Gómez <dsolano@na.edu>
+Instructor::   Daniel Solano Gómez <dsolano@na.edu>, 832-230-5550
 Office hours:: Tuesdays, Thursdays; 14:30–15:30; Room 220A.  Additional times by appointment.
 Prerequisite:: COMP 2313: Data structures
 
