@@ -36,11 +36,11 @@ By the end of this course, you should be able to:
 
 I may provide additional reading material in class or on-line.
 
-=== Software and online resources
+=== Required software and accounts
 
 In order to complete homework assignments, you will need access to a computer with:
 
-* A text editor of their choice
+* A text editor of your choice
 * Compilers for languages used in class (to be determined)
 * http://git-scm.com[Git], a revision control system
 
@@ -52,14 +52,15 @@ Coursework
 
 === Homework
 
-I will assign homework on a roughly weekly basis.  Each homework assignment will be available under the class's GitHub account at https://github.com/nau-comp3320[].  To work on the assignment, you will need to:
+I will assign homework about once a week.  Each homework assignment will be available under the class's GitHub account at https://github.com/nau-comp3320[].  To work on the assignment, you will need to:
 
 1. Fork the repository, making a copy under your own user.
 2. Clone the repository to your computer, where you can then work on it.
 3. Push your solution to GitHub.
 4. Create a pull request with the class repository with your solution.
+5. I will provide feedback to you as a comment in the pull request.
 
-I will provide feedback to you as a comment in the pull request.
+The first homework assignment should help you learn these steps.
 
 [TIP]
 It is a good practice to break your work down into small steps and commit each step as you finish.  When you commit, you should provide a good description of the change you made.  Doing both of these things will make it easier for you to review your work later and identify where you may have introduced a bug.
@@ -91,7 +92,7 @@ I will compute your final grade as follows:
 |Final      |   25%
 |===================
 
-Each homework assignment and quiz will have equal weight.
+Each homework assignment will have equal weight.  Each quiz will also have equal weight.
 
 At my sole discretion, I may use your history of class participation to bump up your final grade by more than 2%.
 
@@ -160,7 +161,7 @@ Readings in _italics_ are optional, but highly recommended.
 |
 
 |10 Mar–12 Mar
-|Midterm
+|More Prolog, Midterm
 |
 
 |16 Mar–20 Mar
