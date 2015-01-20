@@ -3,7 +3,7 @@ COMP 3320: Programming languages: Course syllabus, Spring 2015
 Daniel Solano_Gómez <dsolano@na.edu>
 
 [NOTE]
-This syllabus is still under development and will be changed.
+This syllabus is still under development and will be changed.  The most recent version can be found at https://github.com/nau-comp3320/syllabus[].
 
 Course information
 ------------------
@@ -25,7 +25,9 @@ By the end of this course, you should be able to:
 
 * Identify and describe the features of a programming language, such as its paradigm, type system, scoping rules, data abstraction support, concurrency support, etc.
 * Evaluate the suitability of a given language for a particular purpose
-* Describe the syntax of a language using BNF notation and understand various methods of specifying the semantics of a language
+* Define the syntax of a language using BNF notation
+* Describe the different techniques for specifying the semantics of a language
+* Describe the methods and challenges of performing lexical and syntax analysis
 * Develop software using a variety of programming paradigms, including imperative, functional, logic, and object-oriented
 
 === Textbook and reading materials
@@ -79,7 +81,7 @@ I will give you the due date for each assignment when I assign it.  If you are h
 
 === Composition of final grade
 
-Your final grade will be composed as follows:
+I will compute your final grade as follows:
 
 [cols="<,>",width=25%]
 |===================
