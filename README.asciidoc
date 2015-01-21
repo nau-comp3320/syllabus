@@ -8,12 +8,12 @@ This syllabus is still under development and will be changed.  The most recent v
 Course information
 ------------------
 
-Number::       COMP 3320
-Title::        Programming languages
-Credit::       45 clock hours/3 semester credits
-Instructor::   Daniel Solano Gómez <dsolano@na.edu>, 832-230-5550
-Office hours:: Tuesdays, Thursdays; 14:30–15:30; Room 220A.  Additional times by appointment.
-Prerequisite:: COMP 2313: Data structures
+Number::                       COMP 3320
+Title::                        Programming languages
+Instructional Hours/Credits::  Lecture - 45 clock hours/3 semester credits
+Instructor::                   Daniel Solano Gómez <dsolano@na.edu>, 832-230-5550
+Office hours::                 Tuesdays, Thursdays; 14:30–15:30; Room 220A.  Additional times by appointment.
+Prerequisite::                 COMP 2313: Data structures
 
 === Description
 
@@ -30,9 +30,16 @@ By the end of this course, you should be able to:
 * Describe the methods and challenges of performing lexical and syntax analysis
 * Develop software using a variety of programming paradigms, including imperative, functional, logic, and object-oriented
 
+=== Instructional methods
+
+* Lecture with discussion
+* Cooperative learning
+* Demonstration
+* Practical exercise
+
 === Textbook and reading materials
 
-* _Concepts of Programming Languages_ (10th edition), Robert W. Sebesta, Pearson, ISBN 0-13-139531-9.
+* _Concepts of Programming Languages_ (10th edition), Robert W. Sebesta, Pearson, 2013, ISBN 0-13-139531-9.
 
 I may provide additional reading material in class or on-line.
 
@@ -64,6 +71,10 @@ The first homework assignment should help you learn these steps.
 
 [TIP]
 It is a good practice to break your work down into small steps and commit each step as you finish.  When you commit, you should provide a good description of the change you made.  Doing both of these things will make it easier for you to review your work later and identify where you may have introduced a bug.
+
+==== Expectation
+
+Students are expected to spend approximately six (6) hours a week, on average, completing homework assignments in order to achieve the learning objectives for this 15 week lecture course. This meets the Federal Government’s expectation of two hours of homework for each hour of lecture.
 
 === Quizzes
 
@@ -211,12 +222,12 @@ You should attend class and participate in classroom discussions.  If you miss c
 
 Each student assumes the responsibilities of being a member of the NAU academic community.  All acts of plagiarism are not tolerated including: cheating, claiming other’s work as their own, fabrication, and helping one to commit any of these acts.  Any violations of academic honesty will receive strict disciplinary action, which can include suspension and even expulsion from NAU.
 
-In this class, it is permissible and encouraged to assist classmates in general discussion on how to solve the homework problems.  It is not permissible to copy another's work (or portions thereof) and represent it as your own.
+In this class, it is permissible and encouraged to assist classmates in general discussion on how to solve homework problems.  It is not permissible to copy another's work (or portions thereof) and represent it as your own.
 
 
 === Accommodations
 
-Students that require any accommodation (such as students with disabilities, conflicts with religious practices or observances, etc.) should notify the instructor as early as possible and accommodations will be made on an individual basis in adherence with the regulations outlined in the _Student Handbook_.
+Students that require any accommodation (such are students with disabilities, religious conflicts, etc…) should notify the instructor as early as possible and accommodations will be made on an individual basis in adherence with the regulations outlined in the _Student Handbook_.
 
 === Changes to syllabus
 
